@@ -11,13 +11,21 @@ Copyright 2020-2021  Kong Chao.
 # Features
 
 RV64IM
+
 BTB+GHT+LHT+RAS Branch Prediction
+
 11 stage
+
 2-wide Decode/Rename
+
 64-entry ROB
+
 64-entry INT PRF
+
 16kb 4-way I-cache
+
 64kb 4-way D-cache
+
 32-entry ITLB/DTLB
 
 
